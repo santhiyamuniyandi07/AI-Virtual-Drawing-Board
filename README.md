@@ -367,5 +367,3 @@ Karur, Tamil Nadu
 
 GitHub: **santhiyamuniyandi07**
 
-
-MIT License
